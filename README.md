@@ -1,102 +1,94 @@
-<!-- Title and Profile Views Badge -->
+<!-- Profile Views Badge -->
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Noboni2086&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Noboni2086&style=flat-square&color=8e44ad&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Shraboni+Biswas+Naboni!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Shraboni+Biswas+Naboni!" />
 </p>
 
-<!-- About Me Section -->
-<h1 align="center">👨‍💻 About Me</h1>
-<p align="center">I'm Shraboni Biswas Naboni, a Computer Science and Engineering student passionate about developing machine learning models for real-time decision-making and crafting insightful dashboards using tools like Tableau and Power BI.</p>
+---
 
-<h3 align="center">💡 Fun Fact:</h3>
-<p align="center">I proudly call myself "smartly lazy" - always finding the most efficient way to get things done. Automation is my secret weapon!</p>
+## 👩‍💻 About Me
 
-<h3 align="center">🚀 Tech Stack:</h3>
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" /></a> 
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /></a>
-    <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" /></a>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" /></a>
-    <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" /></a>
-
-
+I'm <strong>Shraboni Biswas Naboni</strong>, a Computer Science and Engineering student passionate about building ML models for real-time decision-making and crafting interactive dashboards with Tableau and Power BI.
 </p>
 
-<hr>
+---
 
-<!-- Social Media Section -->
-<h1 align="center">🌐 Connect with Me</h1>
+### 💡 Fun Fact
+
+<p align="center"><em>I call myself "smartly lazy" – always finding the most efficient way to get things done. Automation is my superpower!</em></p>
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/shraboni-biswas-bb47692a1/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 90px; height: auto;" />
-    </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shraboni2086@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="width: 70px; height: auto;" />
-    </a>
- 
+  <img src="https://img.shields.io/badge/Python-8e44ad?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-6c3483?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-884ea0?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-7d3c98?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-9b59b6?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-5b2c6f?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-8e44ad?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-6c3483?style=flat-square&logo=autodesk&logoColor=white" />
 </p>
 
-<hr>
+---
 
-<!-- GitHub Roll Section -->
-<!--<h1 align="center">🌟 GitHub Roll Badge</h1>
+## 🌐 Connect with Me
+
 <p align="center">
-    <a href="https://gitroll.io/profile/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3">
-        <img src="https://gitroll.io/api/badges/profiles/v1/uYyLLDiG0ciUDlHQmwunVT9Es4ZJ3?theme=blueberry&timestamp=123456789" alt="GitRoll Profile Badge" width="90%" style="max-width: 1000px;">
-    </a>
+  <a href="https://www.linkedin.com/in/shraboni-biswas-bb47692a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shraboni2086@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6c3483?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
--->
-<hr>
 
-<!-- GitHub Stats Section -->
-<h1 align="center">📈 GitHub Stats</h1>
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noboni2086&theme=blueberry" alt="GitHub Profile Details" width="90%" style="max-width: 844px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noboni2086&theme=purple" width="90%" />
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noboni2086&theme=blueberry&exclude=8" alt="GitHub Repos per Language" width="45%" style="max-width: 420px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noboni2086&theme=blueberry&exclude=8" alt="GitHub Most Commit Language" width="45%" style="max-width: 420px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noboni2086&theme=purple" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noboni2086&theme=purple" width="45%" />
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noboni2086&theme=blueberry" alt="GitHub Stats" width="45%" style="max-width: 420px;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noboni2086&theme=blueberry&utcOffset=6" alt="GitHub Productive Time" width="45%" style="max-width: 420px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noboni2086&theme=purple" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noboni2086&theme=purple&utcOffset=6" width="45%" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noboni2086&theme=blueberry" alt="GitHub Streak" width="55%" style="max-width: 490px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noboni2086&theme=blueberry&layout=compact" alt="Top Languages" width="40%" style="max-width: 350px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noboni2086&theme=purple" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noboni2086&theme=purple&layout=compact" width="40%" />
 </p>
 
-<hr>
+---
 
-<!-- GitHub Trophies Section -->
-<h1 align="center">🏆 GitHub Trophies</h1>
+## 🏆 GitHub Trophies
+
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Noboni2086&theme=onedark" alt="GitHub Trophies" width="90%" style="max-width: 1000px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Noboni2086&theme=dracula&column=6&margin-w=10" />
 </p>
 
-<hr>
+---
 
-<!-- Top Repositories Section -->
-<h1 align="center">🔝 Top Repositories</h1>
+## 🔝 Top Repositories
+
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Noboni2086&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="Top Repositories" width="90%" style="max-width: 1000px;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Noboni2086&limit=5&theme=purple&combine_all_yearly_contributions=true" width="90%" />
 </p>
 
-<hr>
+---
 
 <!-- Footer -->
-<!-- Typing Animation with Static Heart (Simulated Animation) -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&lines=Proudly+crafted+with+❤️;and+Markdown;Proudly+crafted+with+💖;and+Markdown;Proudly+crafted+with+💗;and+Markdown;Proudly+crafted+with+❤️;and+Markdown" />
-</p><!-- Title and Profile Views Badge -->
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Noboni2086&style=flat-square&color=6e5494&label=Profile+Views" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=8E44AD&center=true&vCenter=true&width=500&height=50&lines=Made+with+💜+and+Markdown!" />
 </p>
-
